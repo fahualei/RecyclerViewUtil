@@ -1,7 +1,7 @@
 package com.lei.recyclerview.widget;
 
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.ViewHolderDelegate;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.appcompat.widget.ViewHolderDelegate;
 
 /**
  * Created by dell on 2017/2/23.

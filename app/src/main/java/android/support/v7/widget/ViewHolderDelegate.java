@@ -1,4 +1,6 @@
-package android.support.v7.widget;
+package androidx.appcompat.widget;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * Created by dell on 2017/2/23.
